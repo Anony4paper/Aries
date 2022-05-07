@@ -13,7 +13,7 @@
 ├── results   
     ├── figures_for_rq2           # all the figures of RQ2
 ├── utils                         # Tiny-ImageNet generator
-├── DeepET.py                     # DeepET source code
+├── DeepET.py                     # Aries source code
 ```
 
 ## Others
