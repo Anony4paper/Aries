@@ -1,4 +1,5 @@
-# Source Code of DeepET
+# Source Code of Aries
+
 
 ## Requirements
     - Tensorflow 2.3
